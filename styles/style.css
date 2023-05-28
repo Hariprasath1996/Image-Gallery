@@ -11,4 +11,65 @@ body{
   width: 100%;
   min-height: 100vh;
 }
+.Box{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  background-color: aqua;
+  width: 80rem;
+  height: 40rem;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+.card1 img{
+  width:12rem;
+  height: 15rem;
+}
+.card2 img{
+  width:12rem;
+  height: 15rem;
+}
+.card3 img{
+  width:12rem;
+  height: 15rem;
+}
+
+.card4 img{
+  width:12rem;
+  height: 15rem;
+}
+.card5 img{
+  width:12rem;
+  height: 15rem;
+}
+.card6 img{
+  width:12rem;
+  height: 15rem;
+}
+.card7 img{
+  width:12rem;
+  height: 15rem;
+}
+.card8 img{
+  width:12rem;
+  height: 15rem;
+}
+.card9 img{
+  width:12rem;
+  height: 15rem;
+}
+.card10 img{
+  width:12rem;
+  height: 15rem;
+}
+.card11 img{
+  width:12rem;
+  height: 15rem;
+}
+.card12 img{
+  width:12rem;
+  height: 15rem;
+}
+
+
 
